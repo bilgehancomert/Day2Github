@@ -12,6 +12,7 @@ public class Day2GitGithub {
         git remote add origin GitHub repo adress
         git push -u origin master
     Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push kullanırız
+    Not: git log --oneline --> Commitlerimdeki yani versiyonlarımda ki durumu gösterir
      */
 
     public static void main(String[] args) {

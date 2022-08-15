@@ -16,5 +16,6 @@ public class Day2GitGithub {
 
     public static void main(String[] args) {
         System.out.println("Github'ı da öğrendim");
+        System.out.println("args = " + args);
     }
 }

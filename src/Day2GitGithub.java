@@ -11,6 +11,7 @@ public class Day2GitGithub {
     istersek bir kez
         git remote add origin GitHub repo adress
         git push -u origin master
+    6-) git remote -v ---> local'deki projenin hangi git reposu ile bağlı olduğunu gösteriyor.
     Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push kullanırız
     Not: git log --oneline --> Commitlerimdeki yani versiyonlarımda ki durumu gösterir
     Not: Github Öğrendim.
